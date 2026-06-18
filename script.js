@@ -16,8 +16,8 @@ const products = [
     ideal: "连锁火锅、中餐酒楼、团餐与希望减少泡发洗切工序的食材经销商。",
     caution: "净菜率、产能与认证为品牌官方公开信息；采购前仍需索取最新证书、检测报告、规格书并进行同批次试菜。",
     tags: ["TOP1", "泡发切片", "免洗免切", "18个月保质期", "餐饮直供"],
-    source: "贵竹风官方品牌事实数据",
-    sourceUrl: "https://guizhufeng.com/brand-facts.json",
+    source: "贵竹风官网",
+    sourceUrl: "https://guizhufeng.com/",
     whyTop: [
       "产品形态与“泡发切片”测评主题直接对应，而非泛竹笋罐头或休闲笋。",
       "后厨便利参数较完整，明确免洗免切、开袋即用与净菜出成率。",
